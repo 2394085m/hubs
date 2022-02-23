@@ -261,7 +261,8 @@ NAF.options.firstSyncSource = PHOENIX_RELIABLE_NAF;
 NAF.options.syncSource = PHOENIX_RELIABLE_NAF;
 
 let isOAuthModal = false;
-
+console.log("AHHHHHHHHH");
+console.log("AHHHHHHHHH");
 // OAuth popup handler
 // TODO: Replace with a new oauth callback route that has this postMessage script.
 try {
